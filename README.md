@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications: improper handling of route parameters. The `bug.js` file contains code that is vulnerable to errors if the `id` parameter is not a valid integer.  The `bugSolution.js` file provides a corrected version with improved error handling and input validation.
